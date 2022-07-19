@@ -1,0 +1,5 @@
+git clone https://github.com/tiannerz/forked-repo.git
+cd forked-repo
+git remote add upstream https://github.com/tiannerz/Hello-World-2.git
+git pull upstream master
+git push origin master
